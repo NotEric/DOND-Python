@@ -1,4 +1,4 @@
-#Author; Hawwrawr
+#Author; NotEric
 #Date;5-10-13
 #Open Sourced, need Testers anyways
 #Python 2.7
